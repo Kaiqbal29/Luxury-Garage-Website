@@ -145,10 +145,4 @@ This project is part of the Luxury Car Garage application.
 4. Test thoroughly
 5. Submit a pull request
 
-## 📞 Support
-
-For support or questions, please contact the development team.
-
----
-
 **Happy coding! 🚗✨**
